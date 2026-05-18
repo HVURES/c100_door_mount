@@ -31,7 +31,6 @@ I printed my parts in black PETG which ends up very shiny. This resulted in some
 2) Stick the camera to the upper left of the door aligned to the black mask. 
 	* Powering the camera and watching the video feed is probably a good idea to make sure the tab that blocks the chamber light is in the right spot.
 
-
-
-
+### PCA References
+<img src="https://github.com/HVURES/c100_door_mount/blob/main/img/c100_pca_1.jpg?raw=true" alt="Before Paint" Height="300"/> <img src="https://github.com/HVURES/c100_door_mount/blob/main/img/c100_pca_2.jpg?raw=true" alt="After Paint" width="400"/>
 
